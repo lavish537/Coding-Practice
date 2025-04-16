@@ -21,3 +21,5 @@ int main(){
     obj1[1].display();
     return 0;
 }
+//* Output:
+// student id is: 12345
