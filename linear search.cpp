@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"Lavish\t24BCS12448\n";
     int a[20],n,index;
     for (int i=1;i<=10;i++){
         cin>>a[i];
